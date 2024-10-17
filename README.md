@@ -48,4 +48,4 @@ Escolha uma das opções de conversão ou 0 para encerrar:
 6. BOB para BRL
 0. Sair
 
-Siga as instruções na tela para realizar suas conversões. Escolha a opção desejada e insira o valor que deseja converter!
+Siga as instruções na tela para realizar suas conversões. Escolha dentre as opções disponíveis e insira o valor que deseja converter!
