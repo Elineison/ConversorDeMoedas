@@ -41,6 +41,9 @@ Escolha o número para uma das opções de conversão ou 0 para sair
 
 ![Captura de tela 2024-10-18 230516](https://github.com/user-attachments/assets/16c96ffd-8652-4582-bc85-2f21417e54e9)
 
-
-
 Siga as instruções na tela para realizar suas conversões. Escolha dentre as opções disponíveis e insira o valor que deseja converter!
+
+https://github.com/user-attachments/assets/339df449-2bc0-4c51-8c05-f0df09e7f002
+
+
+
