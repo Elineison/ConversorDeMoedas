@@ -46,6 +46,12 @@ Escolha uma das opções de conversão ou 0 para encerrar:
 4. ARS para BRL
 5. BRL para BOB
 6. BOB para BRL
+7. BRL para CLP
+8. CLP para BRL
+9. BRL para COP
+10. COP para BRL
+11. USD para ARS
+12. ARS para USD
 0. Sair
 
 Siga as instruções na tela para realizar suas conversões. Escolha dentre as opções disponíveis e insira o valor que deseja converter!
