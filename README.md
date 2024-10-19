@@ -37,6 +37,8 @@ Execute o aplicativo em um terminal utilizando Maven:
 ```
 mvn exec:java
 ```
+Escolha o número para uma das opções de conversão ou 0 para sair
+
 ![Captura de tela 2024-10-18 230516](https://github.com/user-attachments/assets/16c96ffd-8652-4582-bc85-2f21417e54e9)
 
 
