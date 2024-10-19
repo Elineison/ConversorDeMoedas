@@ -37,21 +37,8 @@ Execute o aplicativo em um terminal utilizando Maven:
 ```
 mvn exec:java
 ```
+![Captura de tela 2024-10-18 230516](https://github.com/user-attachments/assets/16c96ffd-8652-4582-bc85-2f21417e54e9)
 
-Escolha uma das opções de conversão ou 0 para encerrar:
 
-1. BRL para USD
-2. USD para BRL
-3. BRL para ARS
-4. ARS para BRL
-5. BRL para BOB
-6. BOB para BRL
-7. BRL para CLP
-8. CLP para BRL
-9. BRL para COP
-10. COP para BRL
-11. USD para ARS
-12. ARS para USD
-0. Sair
 
 Siga as instruções na tela para realizar suas conversões. Escolha dentre as opções disponíveis e insira o valor que deseja converter!
